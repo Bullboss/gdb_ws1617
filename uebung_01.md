@@ -21,7 +21,7 @@ Welche Bücher (mit Titel und Erscheinungsjahr) wurden vom Heyne-Verlag herausge
 #### Lösungen
 ```sql
 Deine Lösungen
-```
+```blabla
 
 ### Aufgabe 2
 Welche Bücher (mit Titel und Erscheinungsjahr) wurden nicht von Verlegern aus Köln (`Koeln`) herausgegeben?
